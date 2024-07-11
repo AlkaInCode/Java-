@@ -28,7 +28,7 @@ public class DynamicDispatch131
         super1 s= new sub1();
         s.meth1();
         s.meth2();
-        nh
+
 
     }
 }
